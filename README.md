@@ -3,6 +3,14 @@ Smart appliance scheduling service for energy prosumer
 ### 2020 전력데이터 신서비스 개발 경진대회
 homepage: [link](https://home.kepco.co.kr/kepco/NS/main/main.do)
 
+### __Context__
+* [Introduction](#introduction)
+* [Methodology](#methodology)
+* [Result](#result)
+* [Usage](#usage)
+* [GUI dashboard](#gui-dashboard)
+* [Prize](#prize)
+
 ### __Structure__
 The structure of the project is as follows.
 ```setup
@@ -31,15 +39,6 @@ The structure of the project is as follows.
 * smp-modules: smp prediction module
     - ar, lgb, lstm model
 * ppt: presentation file
-
-### __Context__
-* [Introduction](#introduction)
-* [Methodology](#methodology)
-* [Result](#result)
-* [Usage](#usage)
-* [GUI dashboard](#gui-dashboard)
-* [Prize](#prize)
-
 
 Introduction
 =======================
